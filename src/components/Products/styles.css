@@ -1,0 +1,12 @@
+#boxProdutos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  display: flex;
+}
+
+#containerProducts {
+  display: flex;
+}
